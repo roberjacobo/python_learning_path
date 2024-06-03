@@ -34,13 +34,14 @@ def tuples():
     
     myTuple2 = ('hello world from python',) # La coma es necesaria porque si no python no la reconoce como una tupla
     print(type(myTuple2))
+    
+def dictionaries():
+    return 0
 
 
 
 
-
-
-
-#lists()
+# lists()
 tuples()
+# dictionaries()
 
